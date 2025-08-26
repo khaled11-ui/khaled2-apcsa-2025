@@ -23,19 +23,7 @@ public class Starter implements Directions{
 
 
     // starting the letter R
-    rob.putBeeper();
-    rob.putBeeper();
-    rob.putBeeper();
-    rob.putBeeper();
     rob.move();
-    rob.putBeeper();
-    rob.move();
-    rob.move();
-    rob.move();
-    rob.putBeeper();
-    rob.move();
-    rob.move();
-    rob.putBeeper();
 
     // done with the line, now on the curve
     // rob.turnLeft();
